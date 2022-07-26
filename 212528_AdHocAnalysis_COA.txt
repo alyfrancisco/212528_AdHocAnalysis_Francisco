@@ -1,0 +1,46 @@
+﻿Ateneo de Manila University
+Department of Quantitative Methods and Information Technology
+Certificate of Authorship
+Instructions
+* Accomplish the document completely
+* Save the document as a .pdf file with the following name format: <IDNumber>_<RequirementTitle>_COA (e.g. 12345_Assignment1_COA)
+* Attach this document to each course requirement submission unless otherwise specified by the Course Instructor
+________________
+
+
+Certification
+        I hereby certify that the submission described in this document abides by the principles stipulated in the student handbook.
+I further certify that I am the author of this submission and that any assistance I received in its preparation is fully acknowledged and disclosed in the documentation. 
+I have also cited all sources from which I obtained data, ideas, or words that are directly copied or paraphrased in this document. Sources are properly credited according to accepted standards for professional publication.
+I am aware that any potential case of plagiarism or cheating (similar code) regarding my submission merits a 0 for the requirement and a disciplinary case filed to the Discipline Committee of the Loyola Schools.
+Sources
+
+
+https://thewebdev.info/2022/03/26/how-to-split-text-in-a-column-into-multiple-rows-with-python-pandas/
+https://stackoverflow.com/questions/14745022/how-to-split-a-dataframe-string-column-into-two-columns
+https://stackoverflow.com/questions/13682044/remove-unwanted-parts-from-strings-in-a-column
+https://sparkbyexamples.com/pandas/pandas-find-unique-values-from-columns/
+https://www.projectpro.io/recipes/insert-new-column-based-on-condition-in-python
+https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime
+https://datascientyst.com/extract-month-and-year-datetime-column-in-pandas/
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.groupby.html
+https://pandas.pydata.org/docs/getting_started/intro_tutorials/04_plotting.html
+https://towardsdatascience.com/calculate-your-monthly-recurring-customer-by-cohort-analysis-3d39473482b7
+https://www.statology.org/pandas-pivot-table-to-dataframe/
+https://stackoverflow.com/questions/70156300/pandas-groupby-aggregate-to-find-number-of-days-customer-made-at-least-1-transac
+________________
+
+
+Sources (cont.)
+
+
+
+
+Student and Course Information
+Course Code & Section
+	ITMGT 25.03
+	Course Instructor
+	Jose Ramon S. Ilagan
+	Student’s Full Name
+	Alyssa Gabrielle C. Francisco
+	Signature
